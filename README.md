@@ -46,7 +46,7 @@ Welcome to the Email Generator project! This Python program allows you to genera
 
 • Clone this repository to your local machine using the following command:
 
-   git clone https://github.com/your-username/EmailGenerator.git
+     git clone https://github.com/your-username/EmailGenerator.git
 
 • Replace "your-username" with your GitHub username.
 
