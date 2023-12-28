@@ -2,9 +2,8 @@
 
 Welcome to the Email Generator project! This Python program allows you to generate email addresses based on provided names and surnames, using popular South African email providers.
 
-##
-
 # How to Use:
+
 
 1. Input:
 
@@ -18,11 +17,9 @@ Welcome to the Email Generator project! This Python program allows you to genera
 
 • Choose from the following South African email providers:
 
-    • Gmail
-
-    • Yahoo
-
-    • Outlook
+   • Gmail
+   • Yahoo
+   • Outlook
 
 3. Generated Email:
 
@@ -32,7 +29,6 @@ Welcome to the Email Generator project! This Python program allows you to genera
 
 • If no surname is provided, the email format is 'name@provider.com'.
 
-## 
 
 # Getting Started:
 
@@ -56,7 +52,7 @@ Welcome to the Email Generator project! This Python program allows you to genera
 
 • Execute the program by running the command:
 
-   python email_generator.py
+      python email_generator.py
 
 • Follow the on-screen instructions.
 
